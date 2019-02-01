@@ -14,8 +14,8 @@
 
 ### 方法一:克隆本仓库
 ```
-git clone 
-cd my-project
+git clone https://github.com/Robinsir/vue-electron-typescript.git
+cd vue-electron-typescript
 npm i
 npm run electron:serve #或者npm run dev
 ```
